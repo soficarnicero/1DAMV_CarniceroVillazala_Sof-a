@@ -36,3 +36,5 @@
     <details>  
 <summary>Mantenimiento:</summary>  Se revisa el software a fondo para encontrar y corregir errores, asegurando que funcione bien y cumpla con lo pedido.
 </details>
+
+![memeprogramacion](images/imagendeprueba.jpg)
