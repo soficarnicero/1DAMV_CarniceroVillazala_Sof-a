@@ -1,4 +1,5 @@
 # Ejercicio 1
+### Mi repositorio https://github.com/soficarnicero/1DAMV_CarniceroVillazala_Sof-a.git
 ## ¿Qué es un programa informático?
 ### Es una serie de instrucciones en un lenguaje de programación que una computadora interpreta para realizar una tarea específica o resolver un problema.
 
